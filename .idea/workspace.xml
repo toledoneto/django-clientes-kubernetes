@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8493ebb2-9c5a-462f-a18c-84417cf4da89" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v3-rabbit-celery/deploy/celery/beat-deployment.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v3-rabbit-celery/deploy/celery/worker-deployment.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/v3-rabbit-celery/deploy/django/deployment.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>config</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/v1.0_sem-job-migrate/deploy/django/deployment.yaml" />
+        <option value="$PROJECT_DIR$/v1.0_sem-job-migrate/Dockerfile" />
+        <option value="$PROJECT_DIR$/v1.0_sem-job-migrate/gestao_clientes/settings.py" />
+        <option value="$PROJECT_DIR$/v2.0_add-postgres/restart-img.ssh" />
+        <option value="$PROJECT_DIR$/v2.0_add-postgres/restart.sh" />
+        <option value="$PROJECT_DIR$/v2.0_add-postgres/gestao_clientes/settings.py" />
+        <option value="$PROJECT_DIR$/v2.0_add-postgres/restart-img.sh" />
+        <option value="$PROJECT_DIR$/v2.0_add-postgres/img-restart.sh" />
+        <option value="$PROJECT_DIR$/v2.0_add-postgres/deploy/django/deployment.yaml" />
+        <option value="$PROJECT_DIR$/v2.0_add-postgres/deploy/django/job-migration.yaml" />
+        <option value="$PROJECT_DIR$/v1.0-img/deploy/django/deployment.yaml" />
+        <option value="$PROJECT_DIR$/v1.0-img/gestao_clientes/settings.py" />
+        <option value="$PROJECT_DIR$/v2.0-postgres/deploy/django/deployment.yaml" />
+        <option value="$PROJECT_DIR$/v2.0-postgres/deploy/django/job-migration.yaml" />
+        <option value="$PROJECT_DIR$/v2.0-postgres/gestao_clientes/settings.py" />
+        <option value="$PROJECT_DIR$/v2.0-postgres/restart.sh" />
+        <option value="$PROJECT_DIR$/v2.0-postgres/img-restart.sh" />
+        <option value="$PROJECT_DIR$/v2.0-postgres/deploy.sh" />
+        <option value="$PROJECT_DIR$/v2.1-guinicorn/deploy/django/job-migration.yaml" />
+        <option value="$PROJECT_DIR$/v2.1-guinicorn/Dockerfile" />
+        <option value="$PROJECT_DIR$/v2.1-guinicorn/img-restart.sh" />
+        <option value="$PROJECT_DIR$/v2.1-guinicorn/kube-deploy.sh" />
+        <option value="$PROJECT_DIR$/v2.1-guinicorn/deploy/django/deployment.yaml" />
+        <option value="$PROJECT_DIR$/v3-rabbit-celery/deploy/django/job-migration.yaml" />
+        <option value="$PROJECT_DIR$/v3-rabbit-celery/restart.sh" />
+        <option value="$PROJECT_DIR$/v3-rabbit-celery/requirements.txt" />
+        <option value="$PROJECT_DIR$/v3-rabbit-celery/deploy/django/deployment.yaml" />
+        <option value="$PROJECT_DIR$/v3-rabbit-celery/deploy/celery/deployment.yaml" />
+        <option value="$PROJECT_DIR$/v3-rabbit-celery/deploy/celery/worker-deployment.yaml" />
+        <option value="$PROJECT_DIR$/v3-rabbit-celery/deploy/celery/beat-deployment.yaml" />
+        <option value="$PROJECT_DIR$/v3-rabbit-celery/img-restart.sh" />
+        <option value="$PROJECT_DIR$/v3-rabbit-celery/kube-deploy.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="650" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="clientes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clientes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="clientes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clientes" type="462c0819:PsiDirectoryNode" />
+              <item name="v3-rabbit-celery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="clientes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clientes" type="462c0819:PsiDirectoryNode" />
+              <item name="v3-rabbit-celery" type="462c0819:PsiDirectoryNode" />
+              <item name="deploy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="clientes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clientes" type="462c0819:PsiDirectoryNode" />
+              <item name="v3-rabbit-celery" type="462c0819:PsiDirectoryNode" />
+              <item name="deploy" type="462c0819:PsiDirectoryNode" />
+              <item name="celery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="clientes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clientes" type="462c0819:PsiDirectoryNode" />
+              <item name="v3-rabbit-celery" type="462c0819:PsiDirectoryNode" />
+              <item name="deploy" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="clientes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clientes" type="462c0819:PsiDirectoryNode" />
+              <item name="v3-rabbit-celery" type="462c0819:PsiDirectoryNode" />
+              <item name="deploy" type="462c0819:PsiDirectoryNode" />
+              <item name="postgres" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="clientes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clientes" type="462c0819:PsiDirectoryNode" />
+              <item name="v3-rabbit-celery" type="462c0819:PsiDirectoryNode" />
+              <item name="gestao_clientes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/v2.0-postgres" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/v2.0-postgres" />
+      <recent name="$PROJECT_DIR$/v2.0_add-postgres" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/v2.0-postgres/deploy" />
+      <recent name="$PROJECT_DIR$/v2.0_add-postgres/deploy/django" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8493ebb2-9c5a-462f-a18c-84417cf4da89" name="Default Changelist" comment="" />
+      <created>1558272549804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558272549804</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2442139" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18834797" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sh" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/v2.0_add-postgres/manage.py" />
+    <entry file="file://$PROJECT_DIR$/v2.0_add-postgres/img-restart.sh" />
+    <entry file="file://$PROJECT_DIR$/v2.0_add-postgres/restart.sh" />
+    <entry file="file://$PROJECT_DIR$/v2.0_add-postgres/gestao_clientes/settings.py" />
+    <entry file="file://$PROJECT_DIR$/v2.0_add-postgres/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/v2.0_add-postgres/deploy/django/deployment.yaml" />
+    <entry file="file://$PROJECT_DIR$/v2.0_add-postgres/deploy/django/job-migration.yaml" />
+    <entry file="file://$PROJECT_DIR$/v2.0_add-postgres/deploy/django/service.yaml" />
+    <entry file="file://$PROJECT_DIR$/v2.0_add-postgres/deploy/postgres/deployment.yaml" />
+    <entry file="file://$PROJECT_DIR$/v2.0_add-postgres/deploy/postgres/secrets.yaml" />
+    <entry file="file://$PROJECT_DIR$/v2.0_add-postgres/deploy/postgres/service.yaml" />
+    <entry file="file://$PROJECT_DIR$/v2.0_add-postgres/deploy/postgres/volume.yaml" />
+    <entry file="file://$PROJECT_DIR$/v2.0_add-postgres/deploy/postgres/volume_claim.yaml" />
+    <entry file="file://$PROJECT_DIR$/v1.0-img/gestao_clientes/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="30" column="80" lean-forward="true" selection-start-line="30" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1.0-img/deploy/django/deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1.0-img/deploy/django/service.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.0-postgres/deploy/django/deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.0-postgres/deploy/django/job-migration.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.0-postgres/deploy/django/service.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.0-postgres/deploy/postgres/secrets.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.0-postgres/deploy/postgres/service.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.0-postgres/deploy/postgres/volume.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.0-postgres/deploy/postgres/volume_claim.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.0-postgres/deploy/postgres/deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.0-postgres/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.0-postgres/gestao_clientes/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.0-postgres/kube-deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.0-postgres/img-restart.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.0-postgres/restart.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.1-guinicorn/deploy/django/job-migration.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.1-guinicorn/deploy/django/service.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.1-guinicorn/deploy/postgres/deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.1-guinicorn/deploy/postgres/secrets.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.1-guinicorn/deploy/postgres/service.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.1-guinicorn/deploy/postgres/volume.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.1-guinicorn/deploy/postgres/volume_claim.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.1-guinicorn/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.1-guinicorn/deploy/django/deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.1-guinicorn/img-restart.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.1-guinicorn/kube-deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3-rabbit-celery/deploy/django/service.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3-rabbit-celery/deploy/django/job-migration.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3-rabbit-celery/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3-rabbit-celery/restart.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3-rabbit-celery/kube-deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3-rabbit-celery/img-restart.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3-rabbit-celery/deploy/postgres/deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3-rabbit-celery/deploy/celery/beat-deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3-rabbit-celery/deploy/celery/worker-deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3-rabbit-celery/gestao_clientes/settings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3-rabbit-celery/deploy/django/deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
